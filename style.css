@@ -1,0 +1,24 @@
+h1 {
+    text-align: center;
+}
+
+.blog p {
+    text-align: justify;
+}
+
+.blog {
+    background-color: rgb(29, 215, 215);
+    border-radius: 10px;
+    border: 50px solid rgb(66, 61, 61);
+    padding-bottom: 0;
+    padding-left: 50px;
+    padding-top: 50px;
+    padding-right: 30px;
+    width: 50%;
+    margin: 10px auto;
+    height: 300px;
+}
+
+.author-name {
+    color: rgb(249, 24, 24);
+}
